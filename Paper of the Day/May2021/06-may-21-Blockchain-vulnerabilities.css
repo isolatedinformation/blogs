@@ -1,0 +1,32 @@
+.boxed{
+  border-radius: 25px;
+  border: 1px solid white;
+  width: 75%;
+  text-align: justify;
+  padding: 10px;
+  margin: auto;
+  }
+summary{
+    background-color: MediumPurple;
+    border: 1px solid lightblue;
+    border-bottom: none;
+    padding-right:10px;
+    padding-left:10px;
+    padding-top:2.5px;
+    padding-botttom:2.5px;
+    margin: 2.5px;
+    border-radius: 4px;
+  }
+.deets{
+    border: 1px solid lightblue;
+    background-color: MediumSlateBlue;
+    border-top:1px none;
+    padding-right:10px;
+    padding-left:10px;
+    padding-top:2.5px;
+    padding-botttom:2.5px;
+    margin: 2.5px;
+    border-radius: 4px;
+  }
+
+
