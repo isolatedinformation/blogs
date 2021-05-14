@@ -1,0 +1,19 @@
+.boxed{
+    border-radius: 25px;
+    border: 1px solid white;
+    width: 75%;
+    text-align: justify;
+    padding: 10px;
+    margin: auto;
+}
+
+table{
+    background-color:crimson;
+    border: 1px solid white;
+    padding: 10px;
+    width: 75%;
+    margin: auto;
+    margin-bottom: 4px;
+    margin-top: 4px;
+    text-align: justify;
+}
